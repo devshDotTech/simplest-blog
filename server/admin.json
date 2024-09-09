@@ -1,0 +1,34 @@
+[
+  {
+    "username": "admin",
+    "password": "$2b$10$D6F/Pk3tvDLA.pMJvmsfievTWYmBCgBPmyKfwVQ9M86NA52pP6OxC"
+  },
+  {
+    "username": "admin",
+    "password": "$2b$10$wRnVV9Mlzq.DtIFSOY2nzOpKMZqAuAs3Eesno2cJEzozWOmMvXKpu"
+  },
+  {
+    "username": "admin2",
+    "password": "$2b$10$gb.EP5RjMAb3IuNQk3H4w.ykL/36LdSODPY8ALOdmVpilry7By5va"
+  },
+  {
+    "username": "admin3",
+    "password": "$2b$10$F49b07amA9BwCQjCzFXV2uC4J/sI42mvpZE7l3nyf9PdSXd6HDAvG"
+  },
+  {
+    "username": "admin101",
+    "password": "$2b$10$Wde5FX3zdfTkbxspBVr/zOGmk5ALOSvSbnkrCE35x9ROZMCwPaHwi"
+  },
+  {
+    "username": "admin1011",
+    "password": "$2b$10$alNv52eW.NfhJTQ6giHql.HTeWZg9DQjh8WXVttpwvxJHRanOdjFO"
+  },
+  {
+    "username": "admin1911",
+    "password": "$2b$10$e3E/pP/XrGDpkqUNLE2Dru.GJS71KxCdXQrfytaA9zERaQWcaBPUa"
+  },
+  {
+    "username": "admin191100",
+    "password": "$2b$10$Q33N8F64VXU4IsjMgmtO6uS5LbJ65sCCMGkTobC4Uh9vgU5EnGoXi"
+  }
+]
